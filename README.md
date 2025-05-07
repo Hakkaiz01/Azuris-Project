@@ -12,12 +12,12 @@ O Azuris foi criado para facilitar a gestão de comunidades, oferecendo sistemas
 
 ## 🛠️ Estrutura do Projeto
 
-- **src/**: Código-fonte principal, organizado em módulos (comandos, eventos, funções, banco de dados, utilitários, sistemas).
-- **assets/**: Recursos estáticos (imagens, ícones, fontes).
-- **build/**: Arquivos compilados.
-- **settings/**: Configurações globais, variáveis de ambiente e logger.
-- **database/**: Schemas e integração com MongoDB.
-- **utils/**: Utilitários diversos, incluindo sistema de idiomas.
+ **src/**: Código-fonte principal, organizado em módulos (comandos, eventos, funções, banco de dados, utilitários, sistemas).
+ **assets/**: Recursos estáticos (imagens, ícones, fontes).
+ **build/**: Arquivos compilados.
+ **settings/**: Configurações globais, variáveis de ambiente e logger.
+ **database/**: Schemas e integração com MongoDB.
+ **utils/**: Utilitários diversos, incluindo sistema de idiomas.
 
 ---
 
@@ -42,13 +42,13 @@ Estrutura básica de internacionalização já implementada, com suporte inicial
 
 ## ⚙️ Principais Componentes
 
-- **Comandos Slash**: Modularizados, com permissões, autocomplete e respostas dinâmicas.
-- **Eventos**: Arquitetura baseada em eventos para fácil extensão e manutenção.
-- **Painel de Formulários**: Interface visual para configuração de formulários, perguntas, validações, destinos e mensagens.
-- **Sistema de Logs/Auditoria**: Registro detalhado de ações administrativas, com exportação de logs.
-- **Backup e Restauração**: Comandos para backup/restauração de dados do bot e coleções específicas.
-- **Rate Limit**: Proteção contra spam de comandos.
-- **Cache e Performance**: Uso de cache local para otimizar buscas e operações frequentes.
+ **Comandos Slash**: Modularizados, com permissões, autocomplete e respostas dinâmicas.
+ **Eventos**: Arquitetura baseada em eventos para fácil extensão e manutenção.
+ **Painel de Formulários**: Interface visual para configuração de formulários, perguntas, validações, destinos e mensagens.
+ **Sistema de Logs/Auditoria**: Registro detalhado de ações administrativas, com exportação de logs.
+ **Backup e Restauração**: Comandos para backup/restauração de dados do bot e coleções específicas.
+ **Rate Limit**: Proteção contra spam de comandos.
+ **Cache e Performance**: Uso de cache local para otimizar buscas e operações frequentes.
 
 ---
 
@@ -60,11 +60,11 @@ Este projeto é privado, desenvolvido e mantido exclusivamente por mim. Não é 
 
 ## 📈 Roadmap
 
-- Finalizar polimento do sistema de formulários
-- Iniciar desenvolvimento do autoatendimento
-- Implementar IA para tickets
-- Expandir sistema de moderação
-- Ampliar suporte a idiomas e internacionalização
+ Finalizar polimento do sistema de formulários
+ Iniciar desenvolvimento do autoatendimento
+ Implementar IA para tickets
+ Expandir sistema de moderação
+ Ampliar suporte a idiomas e internacionalização
 
 ---
 
