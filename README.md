@@ -1,4 +1,5 @@
-<center>
+<div align="center">
+
 # ![Logo do Azuris Bot](https://github.com/Hakkaiz01/Azuris-Project/blob/main/avatar.png) Azuris Bot
 
 Azuris é um bot privado, desenvolvido exclusivamente para automação, formulários, moderação e experiências inteligentes em servidores Discord. O projeto é de autoria única e não será disponibilizado publicamente.
@@ -76,4 +77,5 @@ Desenvolvido e mantido por [DouglasRenan/Hakkaiz01](https://github.com/Hakkaiz01
 > **Nota:** Este repositório é privado e não será tornado público.
 
 ---
-</center>
+
+</div>
