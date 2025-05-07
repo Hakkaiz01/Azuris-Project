@@ -71,6 +71,7 @@ Este projeto é privado, desenvolvido e mantido exclusivamente por mim. Não é 
 ## 👤 Autor
 
 Desenvolvido e mantido por [DouglasRenan/Hakkaiz01](https://github.com/Hakkaiz01) e [Bruno Lopes/LopeszD](https://github.com/LopeszD).
+
 Discord Oficial de Atualizações e Suporte [Azuris Home](https://discord.gg/zEg5HDsn8M)
 
 ---
